@@ -1,4 +1,4 @@
-# faretakipedenikon
+# Fareyi Takip Eden İkon
 
 Çalışması için **\<head\>** etiketi arasına bu kodları ekleyin.
 ```
